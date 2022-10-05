@@ -6,3 +6,4 @@ flask
 Werkzeug
 gunicorn
 h5py
+fintech
